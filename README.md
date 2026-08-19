@@ -23,12 +23,12 @@ Every developer needs text processor — but existing tools are either too compl
 
 ## Features
 
-- **Regular expression support** — Regular expression support
-- **Batch processing** — Batch processing
-- **Text analysis** — Text analysis
-- **Format conversion** — Format conversion
-- **Encoding detection** — Encoding detection
-- **CLI interface** — CLI interface
+- Regular expression support
+- Batch processing
+- Text analysis
+- Format conversion
+- Encoding detection
+- CLI interface
 
 ## Quick Start
 
