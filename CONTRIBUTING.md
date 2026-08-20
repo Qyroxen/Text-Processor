@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Text-Processor.git
+git clone https://github.com/AetherCodeHQ/Text-Processor.git
 cd Text-Processor
 ```
 
